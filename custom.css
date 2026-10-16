@@ -1,0 +1,19 @@
+/* Occurrence — Squarespace Custom CSS
+ * Paste into: Design → Custom CSS
+ * Live: https://occurrence.ca/
+ * Site ID: 6679bc54d1d9b14b57134c58
+ */
+
+/* Homepage (collection Accueil) */
+#collection-6717a70670c4897ffa9575a6 h1 {
+  margin: 0;
+}
+
+#collection-6717a70670c4897ffa9575a6 h1 a {
+  text-decoration: none;
+  color: #000;
+}
+
+#collection-6717a70670c4897ffa9575a6 .sqs-block-content p {
+  margin: 1rem 0;
+}
